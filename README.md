@@ -1,5 +1,13 @@
 ### HI ALL 👋
 
+Hey Guys, This is Meetansh, a Year II CS Student at BITS Pilani, Dubai Campus
+
+🔭 I work on projects using languages 
+         - C
+         - Java
+         
+       
+
 <!--
 **Meetansh7608/Meetansh7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
