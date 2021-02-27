@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI ALL 👋
 
 <!--
 **Meetansh7608/Meetansh7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
