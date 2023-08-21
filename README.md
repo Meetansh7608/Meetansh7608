@@ -1,6 +1,6 @@
 ### HI ALL 👋
 
-Hey Guys, This is Meetansh, a Final year CS Student at BITS Pilani, Dubai Campus
+Hey Guys, This is Meetansh, a CS grad student @Texas A&M University
 
          
        
